@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm a senior Computer Science student and a passionate explorer of the world of software and data. I started with software engineering because I love solving real-world problems through code. What inspires me most is **building impactful tools, automating systems, and crafting user-focused digital experiences**.
 
@@ -14,16 +14,16 @@ My aim is to **bridge technology and human needs by creating scalable and meanin
 
 ---
 
-### 💼 Current Focus
+###  Current Focus
 
-- 🌱 Learning Full-Stack Development and DevOps best practices  
-- 📊 Exploring Machine Learning, Data Engineering & AI  
-- ⚙️ Building simulation models in C++ and Python  
-- 🧠 Enhancing my algorithmic thinking through daily problem-solving
+-  Learning Full-Stack Development and DevOps best practices  
+-  Exploring Machine Learning, Data Engineering & AI  
+-  Building simulation models in C++ and Python  
+-  Enhancing my algorithmic thinking through daily problem-solving
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 ```html
 Languages: Python, C++, JavaScript, SQL  
